@@ -1,16 +1,14 @@
 {
-  "posts":[
+  "Announcements": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "Title": "Brand New Game",
+      "Body": "This is a update",
+      "id": "BNG"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "Title": "king",
+      "Body": "The throne of the king",
+      "id": "king"
     }
   ]
 }
