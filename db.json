@@ -1,14 +1,14 @@
 {
-  "Announcements": [
+  "GameUpdates_Bomber": [
     {
-      "Title": "Brand New Game",
-      "Body": "This is a update",
-      "id": "BNG"
+      "Title": "Bomber Level Map",
+      "Body": "Current Level Solid Decoration TileMap",
+      "id": "Map"
     },
     {
-      "Title": "king",
-      "Body": "The throne of the king",
-      "id": "king"
+      "Title": "Bomber Level Collision Tiles",
+      "Body": "Current Level Solid Collisions TileMap",
+      "id": "Collisions"
     }
   ]
 }
