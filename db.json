@@ -11,10 +11,16 @@
       "id": "Collisions"
     },
     {
+      "Title": "Bomber Level Map Babyto",
+      "Body": "Current Level Solid Collisions TileMap Babyto",
+      "id": "BaybytoMap"
+    },
+    {
       "Title": "Bomber Level Collision Tiles Babyto",
       "Body": "Current Level Solid Collisions TileMap Babyto",
-      "id": "Baybyto"
+      "id": "BaybytoCollision"
     }
   ]
 }
+
 
