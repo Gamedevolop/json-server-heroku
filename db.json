@@ -20,6 +20,11 @@
       "Body": "Current Level Solid Collisions TileMap Babyto",
       "id": "BaybytoCollision"
     }
+    {
+      "Title": "New Default Variables Editor ",
+      "Body": "Current Level Default Variables",
+      "id": "NewEditorDefaultVariables"
+    }
   ]
 }
 
